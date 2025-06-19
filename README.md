@@ -8,6 +8,6 @@ This script gets burst archives from a single band of UBB and plots dynamic spec
 This script is specially designed to combine Band2 and Band3 considering the gap between the two. The purpose of the script is to compute the burst properties of the events overlapping between these two bands.
 # 3) Full_UBB_Plotter.py:
 This script combines all the UBB bands considering the band gap in order to produce broadband burst spectra. The spectra can be produced using different zoom-in windows around the burst as follows:\
-1s window : 1023 samples
-100ms window : 102 samples
+1s window : 1023 samples\
+100ms window : 102 samples\
 10ms window : 20 samples
